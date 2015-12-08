@@ -45,6 +45,7 @@ let mapleader=','
 " Toggle Nerdtree
 map <C-e> :NERDTreeToggle<CR>
 map <leader>e : NERDTreeToggle<CR>
+
 " Let's use a common directory for all swaps and backups to avoid cluttering projects
 set backupdir=~/.vim/backup
 set directory=~/.vim/backup
