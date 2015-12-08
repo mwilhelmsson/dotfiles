@@ -13,8 +13,9 @@ Bundle 'ctrlpvim/ctrlp.vim'
 Bundle 'scrooloose/nerdtree'
 Bundle 'Xuyuanp/nerdtree-git-plugin'
 Bundle 'tpope/vim-fugitive'
+Bundle 'vimwiki/vimwiki'
 call vundle#end()
-filetype indent on
+filetype plugin indent on
 
 " look&feel
 set number
