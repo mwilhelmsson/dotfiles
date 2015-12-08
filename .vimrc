@@ -32,7 +32,7 @@ noremap     <Down>  <Nop>
 noremap     <Left>  <Nop>
 noremap     <Right> <Nop>
 
-" Tell phpcomplete-extended to use the right composer binary
+" Tell phpcomplete-extended to use the correct composer binary
 let g:phpcomplete_index_composer_command='composer'
 
 " Configure CTRL-P
